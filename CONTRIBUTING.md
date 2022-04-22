@@ -2,9 +2,9 @@
 
 indonesia-tourism is a community driven project. You are free to contribute in any of the following ways. To get an overview of the project, read the [README](README.md). 
 
-- [Coding style](coding-style)
-- [Adding more data](adding-edit-existing-data)
-- [Report an issue](report-an-issue)
+- [Coding style](#coding-style)
+- [Adding more data](#adding--edit-existing-data)
+- [Report an issue](#report-an-issue)
 
 
 ## Coding style
